@@ -1,7 +1,7 @@
 {
   "duration_ms": 12800,
   "frame_step_ms": 40,
-  "layout": "5 columns x 2 rows",
+  "layout": "portrait 3:4, three columns plus centered look group",
   "actions": [
     {
       "zh": "南瓜待机",

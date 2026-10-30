@@ -23,7 +23,7 @@ With the Pets integration enabled, attach the PNG and ask your app to import it 
 
 Nine states: idle, walk right, walk left, wave, jump, bandage mishap, waiting, stirring a potion, and checking the potion. Sixteen look directions form the tenth preview group. The PNG uses the v2 1536 × 2288 layout, with 192 × 208 cells and 73 populated frames.
 
-The two-row, five-column preview shows all ten groups together, without labels. GIF, MP4, and Live Photo use the same approved preview timings. Each action repeats on its own cadence within the 12.8-second presentation; all actions restart when that presentation loops. There is no additional slowdown or cycle stretching. The host app controls actual playback speed and triggers; look poses alone do not add physical mouse tracking.
+The 3:4 portrait preview (768 × 1024) shows all ten groups together without labels, in three columns with the look group centered at the bottom. A pastel lavender sky and redesigned cream clouds sit above the character area, clear of all animation frames. GIF, MP4, and Live Photo use the same approved preview timings. Each action repeats on its own cadence within the 12.8-second presentation; all actions restart when that presentation loops. There is no additional slowdown or cycle stretching. The host app controls actual playback speed and triggers; look poses alone do not add physical mouse tracking.
 
 The approved PNG SHA-256 is `3255e53345018e5952c0b3b4a23df0a3bb3f6ea7b0c83fc792280ef64f9b05d2`. The separate Codex Pets website package uses lossless WebP and copies the idle pose into the website's extra neutral slot. All existing animation cells remain identical.
 
