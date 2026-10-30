@@ -1,0 +1,150 @@
+{
+  "duration_ms": 12800,
+  "frame_step_ms": 40,
+  "layout": "5 columns x 2 rows",
+  "actions": [
+    {
+      "zh": "南瓜待机",
+      "en": "Pumpkin idle",
+      "frame_durations_ms": [
+        370,
+        150,
+        150,
+        190,
+        190,
+        420
+      ],
+      "cycle_ms": 1470
+    },
+    {
+      "zh": "木乃伊向右",
+      "en": "Mummy right",
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "cycle_ms": 1760
+    },
+    {
+      "zh": "木乃伊向左",
+      "en": "Mummy left",
+      "frame_durations_ms": [
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220,
+        220
+      ],
+      "cycle_ms": 1760
+    },
+    {
+      "zh": "南瓜招手",
+      "en": "Pumpkin wave",
+      "frame_durations_ms": [
+        280,
+        280,
+        280,
+        560
+      ],
+      "cycle_ms": 1400
+    },
+    {
+      "zh": "吸血鬼跳跃",
+      "en": "Vampire hop",
+      "frame_durations_ms": [
+        280,
+        280,
+        280,
+        280,
+        560
+      ],
+      "cycle_ms": 1680
+    },
+    {
+      "zh": "木乃伊小失误",
+      "en": "Mummy mishap",
+      "frame_durations_ms": [
+        280,
+        280,
+        280,
+        280,
+        280,
+        280,
+        280,
+        480
+      ],
+      "cycle_ms": 2440
+    },
+    {
+      "zh": "南瓜等待",
+      "en": "Pumpkin waiting",
+      "frame_durations_ms": [
+        300,
+        300,
+        300,
+        300,
+        300,
+        520
+      ],
+      "cycle_ms": 2020
+    },
+    {
+      "zh": "女巫搅锅",
+      "en": "Witch brewing",
+      "frame_durations_ms": [
+        240,
+        240,
+        240,
+        240,
+        240,
+        440
+      ],
+      "cycle_ms": 1640
+    },
+    {
+      "zh": "女巫检查",
+      "en": "Witch checking",
+      "frame_durations_ms": [
+        300,
+        300,
+        300,
+        300,
+        300,
+        560
+      ],
+      "cycle_ms": 2060
+    },
+    {
+      "zh": "十六方向环视",
+      "en": "Look around",
+      "frame_durations_ms": [
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400
+      ],
+      "cycle_ms": 6400
+    }
+  ]
+}
